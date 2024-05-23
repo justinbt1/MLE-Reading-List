@@ -4,4 +4,5 @@ Please feel free to recommend books via a pull request or issue, so we can creat
 
 ---
 ## The Books
----
+### Machine Learning
+- Deep Learning, Foundations and Concepts | Chris Bishop & Hugh Bishop
