@@ -32,6 +32,8 @@ Please feel free to recommend books via a pull request or issue, so we can creat
 - Knuth: The Art of Computer Programming V1, Fundamental Algorithms.
 - Dijkstra: A Discipline of Programming
 - Martin: Clean Code, A Handbook of Agile Software Craftsmanship.
+
+### Python
 - Shaw: CPython Internals, Your Guide to The Python 3 Interpreter.
 - Gorelick et al: High Performance Python.
 - Okken: Python Testing with Pytest.
