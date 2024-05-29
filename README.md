@@ -7,7 +7,7 @@ Read a helpful book you want to share with others, see our contributor guideline
 
 ## The Books
 ### Machine Learning
-- Bishop: Deep Learning, Foundations and Concepts.
+- Bishop: [Deep Learning, Foundations and Concepts](https://www.bishopbook.com/)(free e-reader version).
 - Hastie et al: The Elements of Statistical Learning.
 - Deisenroth et al: Mathematics for Machine Learning.
 - Goodfellow et al: Deep Learning.
