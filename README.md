@@ -1,5 +1,5 @@
 # MLE Reading List
-A list of technical machine learning, data and programming related books.  
+A curated collection of machine learning, data and programming related books to help you on your journey as a machine learning engineer.  
 Please feel free to recommend books via a pull request or issue, so we can create a curated list everyone can use.
 
 ## The Books
