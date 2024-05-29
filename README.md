@@ -1,4 +1,4 @@
-# MLE Reading List
+# Machine Learning Engineer Reading List
 A curated collection of machine learning, data and programming related books.
 
 Originally created to share books that have helped me in some way on my journey as a machine learning engineer (MLE), hopefully some of which will be useful to you too!  
