@@ -1,7 +1,7 @@
 # MLE Reading List
 A curated collection of machine learning, data and programming related books.
 
-These books have all helped me in some way on my journey as a machine learning engineer (MLE), hopefully some of them will be useful to you too!
+These books have all helped me in some way on my journey as a machine learning engineer (MLE), hopefully some of them will be useful to you too!  
 Read a helpful book you want to share with others, see our contributor guidelines and [code of conduct](https://github.com/justinbt1/MLE-Reading-List/blob/main/CODE_OF_CONDUCT.md).
 
 ## The Books
